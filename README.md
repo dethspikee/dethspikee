@@ -1,4 +1,4 @@
-...
+ Fan of embedded systems.
 <!--
 **dethspikee/dethspikee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
