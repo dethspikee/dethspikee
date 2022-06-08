@@ -1,4 +1,4 @@
- Fan of embedded systems.
+ Fan of embedded systems and electronics.
 <!--
 **dethspikee/dethspikee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
